@@ -12,7 +12,7 @@ g++ -o ./a.exe ./a.cpp
 ```
 
 ## Days
-* **Day 1:** ...
+* ✅**Day 1:** Simple _constructive_ problem.
 
 ## License
 MIT
