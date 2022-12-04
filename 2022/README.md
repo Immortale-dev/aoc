@@ -15,6 +15,7 @@ g++ -o ./a.exe ./a.cpp
 * ✅**Day 1:** Simple _constructive_ problem.
 * ✅**Day 2:** Easy _constructive_ problem.
 * ✅**Day 3:** _Constructive_ problem, solved using hashmaps.
+* ✅**Day 4:** Simple _constructive_ problem, requires some basic segments overpal knowledges.
 
 ## License
 MIT
