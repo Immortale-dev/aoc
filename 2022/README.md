@@ -25,6 +25,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 3:** _Constructive_ problem, solved using hashmaps.
 * ✅**Day 4:** Simple _constructive_ problem, requires some basic segments overpal knowledges.
 * ✅**Day 5:** Simple _constructive_ problem. Solved using deque containers. P.S. define `PRINT` macro to print the results ;)
+* ✅**Day 6:** Simple problem that requires basic knowledges about _hashmaps_.
 
 ## License
 MIT
