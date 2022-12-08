@@ -27,6 +27,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 5:** Simple _constructive_ problem. Solved using deque containers. P.S. define `PRINT` macro to print the results ;)
 * ✅**Day 6:** Simple problem that requires basic knowledges about _hashmaps_.
 * ✅**Day 7:** Simple problem requiring _recursion_ knowledges. Finally it started to be interesting :)
+* ✅**Day 8:** Simple _constructive_ problem for couple of nested for-loops.
 
 ## License
 MIT
