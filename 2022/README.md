@@ -30,6 +30,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 8:** Simple _constructive_ problem for couple of nested for-loops.
 * ✅**Day 9:** The most common AOC _constructive_ problem. Very nice! You can use `PRINT` flag to see the result ;)
 * ✅**Day 10:** Another typical _constructive_ AOC problem with device, screen and text result. Very nice! :)
+* ✅**Day 11:** Pretty fun _constructive_ problem with a little trick for the second part ;)
 
 ## License
 MIT
