@@ -31,6 +31,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 9:** The most common AOC _constructive_ problem. Very nice! You can use `PRINT` flag to see the result ;)
 * ✅**Day 10:** Another typical _constructive_ AOC problem with device, screen and text result. Very nice! :)
 * ✅**Day 11:** Pretty fun _constructive_ problem with a little trick for the second part ;)
+* ✅**Day 12:** Simple _dynamic programming_ find shortest path problem. P.S. better to cimpile with `-O3` so the solution runs in less that 1s for the second part. :P
 
 ## License
 MIT
