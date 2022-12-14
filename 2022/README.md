@@ -33,6 +33,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 11:** Pretty fun _constructive_ problem with a little trick for the second part ;)
 * ✅**Day 12:** Simple _dynamic programming_ find shortest path problem. P.S. better to cimpile with `-O3` so the solution runs in less that 1s for the second part. :P
 * ✅**Day 13:** Pretty nice _constructive_ problem that wants you to create a class and override operator `<`. ^_^
+* ✅**Day 14:** Nice _constructive_ problem. Use `PRINT` flag to visualize the result ;)
 
 ## License
 MIT
