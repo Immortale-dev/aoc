@@ -31,9 +31,10 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 9:** The most common AOC _constructive_ problem. Very nice! You can use `PRINT` flag to see the result ;)
 * ✅**Day 10:** Another typical _constructive_ AOC problem with device, screen and text result. Very nice! :)
 * ✅**Day 11:** Pretty fun _constructive_ problem with a little trick for the second part ;)
-* ✅**Day 12:** Simple _dynamic programming_ find shortest path problem. P.S. better to cimpile with `-O3` so the solution runs in less that 1s for the second part. :P
+* ✅**Day 12:** Simple _dynamic programming_ find shortest path problem. P.S. better to cimpile with `-O3` so the solution runs in less than 1s for the second part. :P
 * ✅**Day 13:** Pretty nice _constructive_ problem that wants you to create a class and override operator `<`. ^_^
 * ✅**Day 14:** Nice _constructive_ problem. Use `PRINT` flag to visualize the result ;)
+* ✅**Day 15:** Great problem that requires some grid decomposition optimisation for the second part. Use `-O3` flag so the second part runs in less than 1s. ;]
 
 ## License
 MIT
