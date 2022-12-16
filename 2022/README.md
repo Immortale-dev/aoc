@@ -35,6 +35,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 13:** Pretty nice _constructive_ problem that wants you to create a class and override operator `<`. ^_^
 * ✅**Day 14:** Nice _constructive_ problem. Use `PRINT` flag to visualize the result ;)
 * ✅**Day 15:** Great problem that requires some grid decomposition optimisation for the second part. Use `-O3` flag so the second part runs in less than 1s. ;]
+* ✅**Day 16:** Pretty hard _dynamic programming_ problem. I'm not sure if my solution works for all of the input data, works for my though :P. P.S. use `-O3` flag so the second part runs in less than a sec.
 
 ## License
 MIT
