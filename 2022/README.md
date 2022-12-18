@@ -37,6 +37,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 15:** Great problem that requires some grid decomposition optimisation for the second part. Use `-O3` flag so the second part runs in less than 1s. ;]
 * ✅**Day 16:** Pretty hard _dynamic programming_ problem. I'm not sure if my solution works for all of the input data, works for my though :P. P.S. use `-O3` flag so the second part runs in less than a sec.
 * ✅**Day 17:** Standard AOC problem when you have a simple _constructive_ problem for the first part, and unbelievably huge limits for the second (but with repeated pattern :P), so you have to figure out how to cut off most of the work >:D
+* ✅**Day 18:** Great problem that teaches you some BFS. ^.^
 
 ## License
 MIT
