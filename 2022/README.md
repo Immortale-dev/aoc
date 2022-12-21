@@ -40,6 +40,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 18:** Great problem that teaches you some BFS. ^.^
 * ✅**Day 19:** Pretty hard _dynamic programming_ problem. My solution again might not work for your data, but it should. Use `-O3` flag as the solution takes some time to complete. I've added a progress bar. :P
 * ✅**Day 20:** Great _constructive_ problem that teaches you to use lists, and requires small optimisations for the second part. -_^
+* ✅**Day 21:** Awesome _binary search_ problem. Just a bit tricky, but pretty fun to do. :D
 
 ## License
 MIT
