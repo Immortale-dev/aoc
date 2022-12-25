@@ -44,6 +44,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 22:** The most horrible problem so far. So annoying one. It's so hard to make it generic, so my solution might not work for you, sorry. T_T
 * ✅**Day 23:** Easy _constructive_ problem. Kind of similar to one of cellular automata games. :}
 * ✅**Day 24:** Very nice finding shortest path problem! One of the best this year. P.S. Use `-O3` flag, so the sulution runs in couple of seconds. ^.^
+* ✅**Day 25:** Not hard problem. A nice ending of the AOC. :p
 
 ## License
 MIT
