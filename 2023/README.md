@@ -22,6 +22,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 ## Days
 * ✅**Day 1:** Simple _constructive_ problem for any language but C++. Solved with hacks. :P
 * ✅**Day 2:** Simple _constructive_ problem. Even parsing was not that bad :D
+* ✅**Day 3:** Simple _constructive_ problem. Solved naivly :}
 
 ## License
 MIT
