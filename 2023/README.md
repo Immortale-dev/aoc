@@ -1,5 +1,5 @@
-# Advent of Code 2022
-C++ solutions for AOC 2022 event
+# Advent of Code 2023
+C++ solutions for AOC 2023 event
 
 ## Build and Run
 you can build solutions for each day using any c++ compiler version >= 14. And then just pipe your input to the input buffer.
