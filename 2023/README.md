@@ -24,6 +24,8 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 2:** Simple _constructive_ problem. Even parsing was not that bad :D
 * ✅**Day 3:** Simple _constructive_ problem. Solved naivly :}
 * ✅**Day 4:** Simple _dynamic programming_ problem :]
+* ✅**Day 5:** Very nice problem on _ranges manipulation_ ^_*
+
 
 ## License
 MIT
