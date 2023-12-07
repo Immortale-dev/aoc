@@ -26,6 +26,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 4:** Simple _dynamic programming_ problem :]
 * ✅**Day 5:** Very nice problem on _ranges manipulation_ ^_*
 * ✅**Day 6:** Interesting problem that can be solved by using quadratic equations, or binary search, but the limits are so low, that brute force does the work :')
+* ✅**Day 7:** Pretty cool _sorting_/_wildcart_ problem! But feels more like constructive ;P
 
 
 ## License
