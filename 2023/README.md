@@ -29,6 +29,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 7:** Pretty cool _sorting_/_wildcart_ problem! But feels more like constructive ;P
 * ✅**Day 8:** Great problem for training your _dividers finding_ and _LCM_ skills ^.^
 * ✅**Day 9:** Pretty easy problem. Very elegantly solved using _recursions_ ;]
+* ✅**Day 10:** Very interesting problem for _BFS_ and a bit over complicated _point inside enclosed path_ algorithm problems :F
 
 
 ## License
