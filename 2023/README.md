@@ -32,6 +32,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 10:** Very interesting problem for _BFS_ and a bit over complicated _point inside enclosed path_ algorithm problems :F
 * ✅**Day 11:** Very easy but great problem! Solved _naivly_ with a bit of range finding optimization %)
 * ✅**Day 12:** Awesome problem! First part is solved with _brute force_, so better co compile it with `-O2` flag. and second part for solved using _memoization_ algorithm :@
+* ✅**Day 13:** Very easy _constructive_ problem. Feels like next day should be extreamly hard xD
 
 
 ## License
