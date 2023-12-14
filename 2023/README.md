@@ -33,6 +33,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 11:** Very easy but great problem! Solved _naivly_ with a bit of range finding optimization %)
 * ✅**Day 12:** Awesome problem! First part is solved with _brute force_, so better co compile it with `-O2` flag. and second part for solved using _memoization_ algorithm :@
 * ✅**Day 13:** Very easy _constructive_ problem. Feels like next day should be extreamly hard xD
+* ✅**Day 14:** Good but pretty easy problem on _finding patterns_ in a sequence of values -_-
 
 
 ## License
