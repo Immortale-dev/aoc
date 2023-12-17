@@ -36,6 +36,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 14:** Good but pretty easy problem on _finding patterns_ in a sequence of values -_-
 * ✅**Day 15:** Easy but fancy _data structures_ problem. Solved using lists + hashmaps ^_^
 * ✅**Day 16:** Great _BFS_ problrm! Solved with help of _bit manipilation_ algorithms \o.o/
+* ✅**Day 17:** Awesome _DP_ problem. Used _BFS_ approach, not best, so consider compiling with `-O2` flag, so the solution runs in couple of seconds ;)
 
 
 ## License
