@@ -38,6 +38,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 16:** Great _BFS_ problrm! Solved with help of _bit manipilation_ algorithms \o.o/
 * ✅**Day 17:** Awesome _DP_ problem. Used _BFS_ approach, not best, so consider compiling with `-O2` flag, so the solution runs in couple of seconds ;)
 * ✅**Day 18:** Very nice problem, for _segments manipulations_. One of the hardest so far, even though it is somehow similar to **day 10** problem, but more annoying T_T
+* ✅**Day 19:** First part is simple _constructive_ problem, the the second one is One of the best _combinatoric_ problems so far! Solved by using _ranges_ together with  _grid decomposition_ algorithm.
 
 
 ## License
