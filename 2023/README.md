@@ -39,6 +39,8 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 17:** Awesome _DP_ problem. Used _BFS_ approach, not best, so consider compiling with `-O2` flag, so the solution runs in couple of seconds ;)
 * ✅**Day 18:** Very nice problem, for _segments manipulations_. One of the hardest so far, even though it is somehow similar to **day 10** problem, but more annoying T_T
 * ✅**Day 19:** First part is simple _constructive_ problem, the the second one is One of the best _combinatoric_ problems so far! Solved by using _ranges_ together with  _grid decomposition_ algorithm.
+* ✅**Day 20:** Ah, classic AOC problem. Probably the best of its kind so far! First part is just _constructive_, but to solve the second part and to build a solution you have to _analyze_ input data just a bit. Solved using _cycle detection_, and generating the answer with _LCM_ $.$
+* ✅**Day 21:** Awesome _combinatory_/_BFS_ problem! Absolutely love it! Although I spent a lot of time debugging it, the process was 100% pleasant }:P
 
 
 ## License
