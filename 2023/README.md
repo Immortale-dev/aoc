@@ -41,6 +41,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 19:** First part is simple _constructive_ problem, the the second one is One of the best _combinatoric_ problems so far! Solved by using _ranges_ together with  _grid decomposition_ algorithm.
 * ✅**Day 20:** Ah, classic AOC problem. Probably the best of its kind so far! First part is just _constructive_, but to solve the second part and to build a solution you have to _analyze_ input data just a bit. Solved using _cycle detection_, and generating the answer with _LCM_ $.$
 * ✅**Day 21:** Awesome _combinatory_/_BFS_ problem! Absolutely love it! Although I spent a lot of time debugging it, the process was 100% pleasant }:P
+* ✅**Day 22:** Pretty cool _constructive_/ _graph travel_ problem, but I was to lazy to build a graph, and _brute forced_ the solution. Better to compile with `-O2` flag, and be patient to wait **~10s** for algorithm to finish ]:|
 
 
 ## License
