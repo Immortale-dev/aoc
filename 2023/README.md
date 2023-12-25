@@ -43,6 +43,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 21:** Awesome _combinatory_/_BFS_ problem! Absolutely love it! Although I spent a lot of time debugging it, the process was 100% pleasant }:P
 * ✅**Day 22:** Pretty cool _constructive_/ _graph travel_ problem, but I was to lazy to build a graph, and _brute forced_ the solution. Better to compile with `-O2` flag, and be patient to wait **~10s** for algorithm to finish ]:|
 * ✅**Day 23:** Classic **NP-hard** _travelling salesman_ problem. Input is low enough for algorithm to work within a reasonable time **<10m**, so compile with `-O2` flag, and be patient /@-@\
+* ✅**Day 24:** First part is simple _lines intersection_ problem, but the second one is one of the hardest problems AOC has offered ever. It requires minimal data analysis to understand that some of the inputs have similar velocities, that allows you to find rock velocity for each axis, and then building lines from 2 hails, find their intersection and together with that initial position of the rock X_X
 
 
 ## License
