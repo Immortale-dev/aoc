@@ -20,6 +20,7 @@ g++ -o ./a.exe ./a.cpp -D PRINT
 ```
 
 ## Days
+* ✅**Day 1:** Simple _constructive_ problem ;)
 
 ## License
 MIT
