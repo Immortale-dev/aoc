@@ -1,4 +1,4 @@
-# Advent of Code 2023
+# Advent of Code 2024
 C++ solutions for AOC 2024 event
 
 ## Build and Run
@@ -7,7 +7,7 @@ you can build solutions for each day using any c++ compiler version >= 14. And t
 ***Example:***
 ```bash
 cd d12
-g++ -o ./a.exe ./a.cpp
+g++ -std=c++2b -o ./a.exe ./a.cpp
 ./a.exe < input.txt
 ```
 
@@ -16,11 +16,12 @@ GNU compiler `-D` flag.
 
 ***Example:***
 ```bash
-g++ -o ./a.exe ./a.cpp -D PRINT
+g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 ```
 
 ## Days
 * ✅**Day 1:** Simple _constructive_ problem ;)
+* ✅**Day 2:** Simpe _brute force_ problem :]
 
 ## License
 MIT

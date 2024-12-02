@@ -1,17 +1,17 @@
 #include <bits/stdc++.h>
-
-using namespace std;
-
 #include "../helpers/parser.h"
 
+using namespace std;
 typedef long long int ll;
 
 //=======================================//
 
-DECLARE_PARSE_INTERFACE(Input) {
+DEFINE_PARSE_INTERFACE(Input) {
 	PARSE_SETUP;
 	
-}
+};
+
+Input input;
 
 ll first() {
 	return 0;
@@ -22,7 +22,6 @@ ll second() {
 }
 
 int main() {
-	prepare();
 	cout << "First: " << first() << endl;
 	cout << "Second: " << second() << endl;
 	return 0;
