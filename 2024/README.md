@@ -21,7 +21,8 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 
 ## Days
 * ✅**Day 1:** Simple _constructive_ problem ;)
-* ✅**Day 2:** Simpe _brute force_ problem :]
+* ✅**Day 2:** Simpe _constructive_ problem, solved usign _brute force_ in `n^2` :P
+* ✅**Day 3:** String parsing problem, _regex_ saved the day }:D
 
 ## License
 MIT
