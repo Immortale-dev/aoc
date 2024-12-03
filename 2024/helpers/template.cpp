@@ -11,7 +11,7 @@ DEFINE_PARSE_INTERFACE(Input) {
 	
 };
 
-Input input;
+Input input(std::cin);
 
 ll first() {
 	return 0;
