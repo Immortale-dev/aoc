@@ -24,6 +24,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 2:** Simpe _constructive_ problem, solved usign _brute force_ in `n^2` :P
 * ✅**Day 3:** String parsing problem, _regex_ saved the day }:D
 * ✅**Day 4:** Easy searching problem. Brute force did the job :]
+* ✅**Day 5:** Great _graph_ problem! Solved using sorting algorithms ;P
 
 ## License
 MIT
