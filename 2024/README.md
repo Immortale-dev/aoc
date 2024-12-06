@@ -25,6 +25,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 3:** String parsing problem, _regex_ saved the day }:D
 * ✅**Day 4:** Easy searching problem. Brute force did the job :]
 * ✅**Day 5:** Great _graph_ problem! Solved using sorting algorithms ;P
+* ✅**Day 6:** Classic AOC problem! Unfortunately _brute force_ still does the job :')
 
 ## License
 MIT
