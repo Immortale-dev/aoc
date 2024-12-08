@@ -27,6 +27,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 5:** Great _graph_ problem! Solved using sorting algorithms ;P
 * ✅**Day 6:** Classic AOC problem! Unfortunately _brute force_ still does the job :')
 * ✅**Day 7:** Nice _bit masks_ problem ^.^
+* ✅**Day 8:** Pretty easy almost _constructive_ problem -_-
 
 ## License
 MIT
