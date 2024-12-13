@@ -32,6 +32,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 10:** Easy _graph travel_ problem. Solved with _brute force_, but some optimisations could be done ;}
 * ✅**Day 11:** A nice classic AOC problem! Solved using _dp_ :O
 * ✅**Day 12:** Slightly tricky _dfs_ problem @:]
+* ✅**Day 13:** Beautiful _math_ problem! So much fun solving it ?;)
 
 ## License
 MIT
