@@ -36,7 +36,8 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 14:** Another classic AOC problem. Requires _cluster finding_ skills, or just eyes. Absolutely love it :3
   * P.S. use `-D PRINT` when compiling to see the easter egg.
 * ✅**Day 15:** Great _recursive_ problem! Had a lot of fun ^_^
-  * P.S. use `-D PRINT` when compiling to see the easter egg, or `-D ANIMATE` to see the full animation.
-
+  * P.S. use `-D PRINT` when compiling to see the final grid, or `-D ANIMATE` to see the full animation.
+* ✅**Day 16:** A pretty problem for _bfs_ and _path finding_. Nice one for practive >:P
+  * P.S. use `-D PRINT` when compiling to see the final grid.
 ## License
 MIT
