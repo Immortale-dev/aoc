@@ -39,5 +39,6 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
   * P.S. use `-D PRINT` when compiling to see the final grid, or `-D ANIMATE` to see the full animation.
 * ✅**Day 16:** A pretty problem for _bfs_ and _path finding_. Nice one for practive >:P
   * P.S. use `-D PRINT` when compiling to see the final grid.
+* ✅**Day 17:** Another classic AOC problem. One of my favourite kind. But this time smart _brute force_ does the job =.=
 ## License
 MIT
