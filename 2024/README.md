@@ -41,6 +41,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
   * P.S. use `-D PRINT` when compiling to see the final grid.
 * ✅**Day 17:** Another classic AOC problem. One of my favourite kind. But this time smart _brute force_ does the job =.=
 * ✅**Day 18:** Pretty simple _path finding_ problem. Used _binary search_ optimization :|
+* ✅**Day 19:** Classic _dp_ problem >.>
 
 ## License
 MIT
