@@ -42,6 +42,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 17:** Another classic AOC problem. One of my favourite kind. But this time smart _brute force_ does the job =.=
 * ✅**Day 18:** Pretty simple _path finding_ problem. Used _binary search_ optimization :|
 * ✅**Day 19:** Classic _dp_ problem >.>
+* ✅**Day 20:** Another _path finding_ problem X_X
 
 ## License
 MIT
