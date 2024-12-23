@@ -45,6 +45,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 20:** Another _path finding_ problem X_X
 * ✅**Day 21:** Great _dp_ problem ^/^
 * ✅**Day 22:** Another great problem for _hashing_ L:)
+* ✅**Day 23:** Great NP full problem! Lucky the input size is not very large };P
 
 ## License
 MIT
