@@ -47,6 +47,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 22:** Another great problem for _hashing_ L:)
 * ✅**Day 23:** Great NP full problem! Lucky the input size is not very large };P
 * ✅**Day 24:** Amazing _brute force_ problem! So muck fun \*.\*
+* ✅**Day 25:** Nice and easy _brute force_ ._.
 
 ## License
 MIT
