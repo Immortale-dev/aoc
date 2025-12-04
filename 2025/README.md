@@ -23,6 +23,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 1:** Simple _brute force_/_constructive_ problem :)
 * ✅**Day 2:** _brute force with optimizations_ problem >;)
 * ✅**Day 3:** Pretty nice _DP_ problem ^.^
+* ✅**Day 4:** Simple _graph traversal_ problem [:}
 
 
 ## License
