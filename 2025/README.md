@@ -24,7 +24,8 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 2:** _brute force with optimizations_ problem >;)
 * ✅**Day 3:** Pretty nice _DP_ problem ^.^
 * ✅**Day 4:** Simple _graph traversal_ problem [:}
-
+* ✅**Day 5:** Fun problem on _merging ranges_ :P
+* ✅**Day 6:** Parsing hell _constructive_ problem T_T
 
 ## License
 MIT
