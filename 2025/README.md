@@ -26,6 +26,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 4:** Simple _graph traversal_ problem [:}
 * ✅**Day 5:** Fun problem on _merging ranges_ :P
 * ✅**Day 6:** Parsing hell _constructive_ problem T_T
+* ✅**Day 7:** Another fun _DP_ problem! }:D
 
 ## License
 MIT
