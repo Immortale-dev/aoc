@@ -27,6 +27,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 5:** Fun problem on _merging ranges_ :P
 * ✅**Day 6:** Parsing hell _constructive_ problem T_T
 * ✅**Day 7:** Another fun _DP_ problem! }:D
+* ✅**Day 8:** Awesome _union find_ problem! Solving it was a pleasure! :']
 
 ## License
 MIT
