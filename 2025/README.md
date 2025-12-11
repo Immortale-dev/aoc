@@ -30,6 +30,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 8:** Awesome _union find_ problem! Solving it was a pleasure! :']
 * ✅**Day 9:** Fancy _geometry_ problem. Got me thinking :>
 * ✅**Day 10:** First part is simple _bitmask_ problem, but the second one, is pretty hard _brute force_ with optimizations -.-
+* ✅**Day 11:** A great _graph_/_dp_ problem! ;]
 
 ## License
 MIT
