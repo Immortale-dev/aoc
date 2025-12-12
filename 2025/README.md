@@ -31,6 +31,7 @@ g++ -std=c++2b -o ./a.exe ./a.cpp -D PRINT
 * ✅**Day 9:** Fancy _geometry_ problem. Got me thinking :>
 * ✅**Day 10:** First part is simple _bitmask_ problem, but the second one, is pretty hard _brute force_ with optimizations -.-
 * ✅**Day 11:** A great _graph_/_dp_ problem! ;]
+* ✅**Day 12:** The problem sounds very annoying, solved with cheaty solution 'v'
 
 ## License
 MIT
